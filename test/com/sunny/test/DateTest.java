@@ -1,4 +1,4 @@
-package com.fudy;
+package com.sunny.test;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
